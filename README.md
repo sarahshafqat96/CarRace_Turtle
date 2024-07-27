@@ -8,7 +8,7 @@ the levels.
 - Score and level tracking.
 - Progressive difficulty as the player advances to higher levels.
 
-#Information and Installation
+# Information and Installation
 
 The coding is done in 4 files stored in the "code" folder in this directory. All the images used for developing the GUI of the game are stored in the
 "images" folder. Make sure you downloadd all the files in a single directory in your computer and run the "main.py" file on your local machine. I
